@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "483650234910",
+    "project_id": "midnights-flutter",
+    "storage_bucket": "midnights-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483650234910:android:8d897bb6692c3455419c0f",
+        "android_client_info": {
+          "package_name": "com.midnights.midnights"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483650234910-elm09uoesi9e3ufe8gord3oeasmb61v2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzzhyP0csC9JWy2qMcPKUslVIs7hLgsdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483650234910-elm09uoesi9e3ufe8gord3oeasmb61v2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
