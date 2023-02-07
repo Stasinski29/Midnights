@@ -31,7 +31,7 @@ class AppImages {
   static const String resultLover = 'assets/results/iconLover.png';
   static const String resultFolk = 'assets/results/iconFolklore.png';
   static const String resultEver = 'assets/results/iconEvermore.png';
-  static const String resultMid = 'assets/results/iconMid.png';
+  static const String resultMid = 'assets/results/iconMidnights.png';
 
   /// OTHERS
 
