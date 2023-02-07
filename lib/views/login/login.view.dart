@@ -154,7 +154,7 @@ class _LoginViewState extends State<LoginView> {
                   ? Border.all(
                       color: AppColors.purple2,
                       width: 2.5,
-                      strokeAlign: StrokeAlign.outside,
+                      //strokeAlign: StrokeAlign.outside,
                     )
                   : null,
               image: DecorationImage(

@@ -29,8 +29,8 @@ class _ProfileViewState extends State<ProfileView> {
   void didChangeDependencies() {
     _uStore ??= Provider.of<UserStore>(context);
     records ??= Provider.of<RecordesRepository>(context);
-
-    getIcons();
+    
+    if (loading) getIcons();
 
     super.didChangeDependencies();
   }
@@ -242,7 +242,7 @@ class _ProfileViewState extends State<ProfileView> {
                                               ? Border.all(
                                                   color: AppColors.bgColor,
                                                   width: 2.0,
-                                                  strokeAlign: StrokeAlign.outside,
+                                                  //strokeAlign: StrokeAlign.outside,
                                                 )
                                               : null,
                                           image: DecorationImage(
